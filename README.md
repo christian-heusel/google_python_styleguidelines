@@ -1,7 +1,4 @@
-<header>
-Google Style Guidelines
-============
-</header>
+# Google Style Guidelines
 ## author: "[Christian Heusel](https://github.com/TheEbolaDoc)[(christian@heusel.eu)](mailto:christian@heusel.eu)"
 
 `Source:` [https://google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html)
