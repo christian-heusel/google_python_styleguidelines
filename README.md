@@ -1,6 +1,7 @@
 # Google Style Guidelines
 
-author: "[Christian Heusel](https://github.com/TheEbolaDoc)[(christian@heusel.eu)](mailto:christian@heusel.eu)"
+`author:` "[Christian Heusel](https://github.com/TheEbolaDoc)[(christian@heusel.eu)](mailto:christian@heusel.eu)"
+
 `Source:` [https://google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html)
 
 # [Python Language Rules](https://google.github.io/styleguide/pyguide.html#2-python-language-rules)
